@@ -30,3 +30,13 @@
 *.exe
 *.out
 *.app
+chaos_encoder
+
+#vsCode Config
+.vscode/*
+
+#CMake
+CMakeCache.txt
+CMakeFiles/*
+Makefile
+*.cmake
